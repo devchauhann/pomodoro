@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Dim ring track -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#333333"
+        android:strokeWidth="4"
+        android:pathData="M54,54m-24,0a24,24,0,1,1,48,0a24,24,0,1,1,-48,0" />
+
+    <!-- Accent progress arc (~270° from 12 o'clock clockwise to 9 o'clock) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E57373"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M54,30 A24,24,0,1,1,30,54" />
+
+    <!-- Play icon (same as ic_play, centered and scaled) -->
+    <group
+        android:translateX="44"
+        android:translateY="44"
+        android:scaleX="0.83"
+        android:scaleY="0.83">
+        <path
+            android:fillColor="#E8E8E8"
+            android:pathData="M21.409,9.353C23.531,10.507 23.531,13.494 21.409,14.647L8.597,21.615C6.534,22.736 4,21.276 4,18.967V5.033C4,2.724 6.534,1.264 8.597,2.385L21.409,9.353Z" />
+    </group>
+
+</vector>
