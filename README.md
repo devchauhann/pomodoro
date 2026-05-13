@@ -4,7 +4,7 @@ A minimal, distraction-free Pomodoro timer for Android built with Jetpack Compos
 
 ## Showcase
 
-https://github.com/devchauhann/pomodoro/raw/main/tutorial.webm
+https://cdn.reicon.dev/tutorial.webm
 
 ## Features
 
